@@ -1,0 +1,72 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+    font-size: 1rem;
+}
+
+h1{
+    font-size: 5rem;
+    margin: 50px auto 0 auto;
+    line-height: 1.5;
+    font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+    color: #001253;
+}
+
+h2{
+    font-size: 2.5rem;
+    font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+    color: #001253;
+    font-weight: normal;
+}
+
+h3{
+    font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+    color: #11999E;
+}
+.top-container{
+    background-color: #3E6D9C;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    background-color: #5F9DF7;
+}
+
+.bottom-container{
+  background-color: #DFF6FF;
+  padding-top: 10px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.cloud1{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.cloud2{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.Malzahar{
+    border-radius: 100%;
+    width: 500px;
+}
+
+.WebDev{
+    border-radius: 100%;
+    width: 500px;
+}
+
+a{
+    color: #11999E;
+}
